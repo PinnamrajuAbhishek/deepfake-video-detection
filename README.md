@@ -1,6 +1,6 @@
 # Bio-Physiological Deepfake Detection
 
-[![Status](https://img.shields.io/badge/Status-Under%20Peer%20Review-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Authoring%journal%20paper-orange.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-Framework-red.svg)]()
 
